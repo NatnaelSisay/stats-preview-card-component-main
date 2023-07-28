@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Link](https://your-solution-url.com)
-- Live Site URL: [Netlify Link](https://your-live-site-url.com)
+- Solution URL: [Github Link](https://github.com/NatnaelSisay/stats-preview-card-component-main)
+- Live Site URL: [Netlify Link](https://lambent-gumption-d6e44f.netlify.app/)
 
 ## My process
 
