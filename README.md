@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./screenshot.jpg)
+![Desktop](./screenshot/desktop.png)
 
 ### Links
 
@@ -47,6 +47,7 @@ Users should be able to:
 
 Time can be greatly reduced by planning before acting. After giving it some time to rest and reconsider our choices, we should continue working on it if it didn't work out the first time.
 
+![Error](./screenshot/error.png)
 The card image that shrink without the text getting any smaller and created an unappealing layout was one item that really bothered me. I played around with media queries as a solution and discovered that if a text doesn't have enough room to shrink, it will stop shrinking and images will lose their shape until the proper media queries are used.
 
 ### Continued development
